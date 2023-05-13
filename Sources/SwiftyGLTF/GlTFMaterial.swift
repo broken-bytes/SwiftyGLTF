@@ -1,4 +1,3 @@
-import Core
 import Foundation
 
 public struct GlTFPbrMetallicRoughness: Codable {
