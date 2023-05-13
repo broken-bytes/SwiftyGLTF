@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "GameKit",
+    name: "SwiftyGLTF",
     products: [
         .library(
             name: "SwiftyGLTF",
